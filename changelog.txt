@@ -1,4 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 3.16.0
+Date: 2026-09-13
+  Features:
+    - LithiumBattery提交与outer-rim更新
+    - panglia_planet与相关模组更新
+    - Paracelsin修正、planet-crucible更新
+    - SolarSystemScience、CircularColliderLab提交
+  Bugfixes:
+    - SpacePlatformHull更新
+---------------------------------------------------------------------------------------------------
 Version: 3.15.0
 Date: 2026-08-31
   Features:
